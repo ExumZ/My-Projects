@@ -1,8 +1,2 @@
-# ############################################# #
-#               Finished Projects               #
-# ############################################# #
-# Python Projects                               #
-# Java Rogue-like Game (Inspired by Elden Ring) #
-#                                               #
-#                                               #
-# ############################################# #
+## Python Projects
+Created by Lee Zhi Yong 
